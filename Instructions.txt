@@ -1,0 +1,18 @@
+Installation Commands --
+	1. pip install SpeechRecognition
+	2. pip install wheel
+	3. pip install PyAudio
+	4. pip install pyttsx3
+	5. pip install pywhatkit
+	6. pip install wikipedia
+	7. pip install keyboard
+	8. pip install pynput
+
+..........................................................
+
+PyAudio Installation --
+	Shift + RightClick -> Windows Shell Prompt -> <Command>
+
+	Command -> pip install py<Tab>
+
+..........................................................
